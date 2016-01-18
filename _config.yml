@@ -2,12 +2,13 @@ name: LarpCorner
 favicon: null
 layout_spectrum: 0.04365548421628773
 typography_spectrum: 0.8736149875912815
+title: Larpcorner
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-72574264-2
   facebook: null
   twitter: null
 opengraph:
