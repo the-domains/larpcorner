@@ -1,0 +1,28 @@
+name: LarpCorner
+favicon: null
+layout_spectrum: 0.04365548421628773
+typography_spectrum: 0.8736149875912815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5141968932002783
+  lightness: 0.04976544203236699
+  saturation: 0.38795922650024295
+  rhythmicContrast: 0.11032383074052632
+purpose: []
